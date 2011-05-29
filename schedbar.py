@@ -1,6 +1,6 @@
 ##############################################################################
 #
-# schedbar.py <timbob@bigpond.com>
+# schedbar.py <tim@tbrk.org>
 #
 # Show the upcoming schedules in the status bar.
 #
